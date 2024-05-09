@@ -47,7 +47,7 @@
 </div>
 
 
-## 🛠  Technologies and tools 🛠
+## 🛠  Technologies and Tools 🛠
 <p> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## 🔍  Where to find me 🔍
@@ -55,7 +55,7 @@
 <a href="https://linkedin.com/in/the-pratik-rane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-pratik-rane" height="30" width="40" /></a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluefrog15&show_icons=true&locale=en&layout=compact" alt="bluefrog15" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vExpertPratik&show_icons=true&locale=en&layout=compact" alt="vExpertPratik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluefrog15&show_icons=true&locale=en" alt="bluefrog15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vExpertPratik&show_icons=true&locale=en" alt="vExpertPratik" /></p>
 
