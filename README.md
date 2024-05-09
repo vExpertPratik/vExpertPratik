@@ -29,7 +29,7 @@
 - AWS Certified Solutions Architect – Associate **(SAA-C03)**
 
 <div align="center">
-<img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/certificate.gif" alt="certificate" height="150" width="600"/>
+<img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/certificate.gif" alt="certificate" height="250" width="600"/>
 </div>
 
 ## 📖 Expertise 📖
