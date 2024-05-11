@@ -47,10 +47,10 @@
 </div>
 
 
-## 🛠  Technologies and Tools 🛠
+## 🛠 Technologies and Tools 🛠
 <p> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🔍  Where to find me 🔍
+## 🔍 Where to find me 🔍
 <p>
 <a href="https://linkedin.com/in/the-pratik-rane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-pratik-rane" height="30" width="40" /></a>
 </p>
