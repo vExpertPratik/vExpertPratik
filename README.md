@@ -59,14 +59,15 @@
     <a href="https://www.microsoft.com/en-in/windows-server" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Windows.png" alt="Windows" width="40" height="40" style="text-decoration:none;"/></a>
     <a href="https://www.terraform.io/use-cases/infrastructure-as-code" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Terraform.png" alt="Terraform" width="40" height="40" style="text-decoration:none;"/></a>
     <a href="https://www.puppet.com/docs/puppet/6/puppet_overview.html" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Puppet_Tool.png" alt="Puppet_Tool" width="40" height="40" style="text-decoration:none;"/></a>
-    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/PowerShell.png" alt="PowerShell" width="40" height="40" style="text-decoration:none;"/></a>
-    <a href="https://developer.broadcom.com/tools/vmware-powercli/latest" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/PowerCLI.png" alt="PowerCLI" width="40" height="40" style="text-decoration:none;"/></a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/PowerShell.png" alt="PowerShell" width="60" height="60" style="text-decoration:none;"/></a>
+    <a href="https://developer.broadcom.com/tools/vmware-powercli/latest" target="_blank" rel="noreferrer"><img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/PowerCLI.png" alt="PowerCLI" width="60" height="60" style="text-decoration:none;"/></a>
 </p>
 
 
 ## 🔍 Where to find me 🔍
 <p>
-<a href="https://linkedin.com/in/the-pratik-rane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-pratik-rane" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/the-pratik-rane" target="blank"><img align="center" src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/LinkedIn.gif" alt="the-pratik-rane" height="30" width="40" /></a>
+    <a href="mailto:pratikit86@gmail.com" target="_blank"><img align="center" src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
 </p>
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vExpertPratik&show_icons=true&locale=en&layout=compact" alt="vExpertPratik"/></p>
