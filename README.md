@@ -1,8 +1,8 @@
-![logo](https://github.com/vExpertPratik/vExpertPratik/blob/main/Banner.png)
+![logo](https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Banner.png)
 <h1 align="center">Hi 👋, I'm Pratik Rane</h1>
 <h3 align="center">I am an experienced VMware Certified Professional (VCP) with expertise in VMware vSphere, VMware NSX, VMware vSAN, Windows Servers, and Nutanix. I specialize in scripting tools such as VMware Aria Suite, PowerCLI, and Python, enabling efficient automation and management of virtualized environments.</h3>
 
-<img align="right" alt="coding" width="350" height="320" src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Coding.gif">
+<img align="right" alt="coding" width="350" height="320" src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluefrog15&label=Profile%20views&color=0e75b6&style=flat" alt="bluefrog15" /> </p>
 
 - 🔭 I’m currently working on **VMware Cloud Foundation, NSX, vSAN, PowerCLI**
@@ -20,7 +20,7 @@
 ## 🌟 Certifications / Credentials 🌟
 
 
-<a href="https://www.credly.com/users/the-pratik-rane/badges"> <img align="right" src="https://github.com/vExpertPratik/vExpertPratik/blob/main/credly.png" alt="certificate" height="250" width="400"/></a>
+<a href="https://www.credly.com/users/the-pratik-rane/badges"> <img align="right" src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/credly.png" alt="certificate" height="250" width="400"/></a>
 
 - VMware Certified Professional - Network Virtualization **(VCP-NV)**
 - Nutanix Certified Associate 6 **(NCA 6)**
@@ -29,7 +29,7 @@
 - AWS Certified Solutions Architect – Associate **(SAA-C03)**
 
 <div align="center">
-<img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/certificate.gif" alt="certificate" height="250" width="600"/>
+<img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/certificate.gif" alt="certificate" height="250" width="600"/>
 </div>
 
 ## 📖 Expertise 📖
@@ -43,7 +43,7 @@
 - **Scripting Tools**: Skilled in using VMware Aria Suite, PowerCLI, and Python for automation and orchestration tasks.
 
 <div align="center">
-<img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Hyperconvergence.jpg" alt="certificate"/>
+<img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/Hyperconvergence.jpg" alt="certificate"/>
 </div>
 
 
