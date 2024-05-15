@@ -49,8 +49,8 @@
 
 ## 🛠 Technologies and Tools 🛠
 <p>
-<a style="text-decoration:none;" href="https://www.linux.org/" target="_blank" rel="noreferrer" text-decoration="none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a style="text-decoration:none;" href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" text-decoration="none"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer" text-decoration="none"> <img style="text-decoration:none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" text-decoration="none"> <img style="text-decoration:none;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a style="text-decoration:none;" href="https://www.python.org" target="_blank" rel="noreferrer" text-decoration="none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a style="text-decoration:none;" href="https://aws.amazon.com/" target="_blank" rel="noreferrer" text-decoration="none"> <img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/AWS.png" alt="AWS" width="40" height="40"/> </a>
 <a style="text-decoration:none;" href="https://cloud.google.com/" target="_blank" rel="noreferrer" text-decoration="none"> <img src="https://github.com/vExpertPratik/vExpertPratik/blob/main/Images/GCP.png" alt="GCP" width="40" height="40"/> </a>
